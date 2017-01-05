@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 45%;
 }
 nav ul, footer ul {
     font-family:'Ubuntu', 'Arial', 'serif';
@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #103A92;
 }
 a:hover {
     text-decoration: underline;
