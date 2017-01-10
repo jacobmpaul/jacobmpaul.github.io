@@ -1,3 +1,5 @@
 name: Numberconscious
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+# Google services
+google_analytics: UA-89851819-1
