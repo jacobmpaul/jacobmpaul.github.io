@@ -3,4 +3,5 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 # Google services
 google_analytics: UA-89851819-1
+url: https://jacobmpaul.github.io
 baseurl: /jacobmpaul
