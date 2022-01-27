@@ -6,3 +6,4 @@ google_analytics: UA-89851819-1
 url: https://jacobmpaul.github.io
 baseurl: /jacobmpaul
 gems: jekyll-sitemap
+plugins: - jekyll-sitemap
